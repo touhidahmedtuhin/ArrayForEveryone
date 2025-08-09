@@ -1,3 +1,6 @@
+
+<img width="1584" height="396" alt="Black Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/e5ed3baa-1c8e-454b-bf93-564fe21bd9e7" />
+
 # JavaScript Array Mastery
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) 
