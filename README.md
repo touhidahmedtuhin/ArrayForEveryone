@@ -31,7 +31,7 @@ This repository is designed to help beginners master JavaScript arrays through h
 
 ### ✅ What You'll Find
 - Beginner-friendly tutorials with detailed comments
-- 50+ practical JavaScript array examples
+- 60+ practical JavaScript array examples
 - Real-world patterns and interview-style questions
 
 ### 🔑 SEO Keywords Covered
